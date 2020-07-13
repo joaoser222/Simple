@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  barcode: MyString
+  sh: MyString
+  category_id: 1
+  brand_id: 1
+  status: MyString
+  composite: false
+
+two:
+  name: MyString
+  barcode: MyString
+  sh: MyString
+  category_id: 1
+  brand_id: 1
+  status: MyString
+  composite: false

@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  people_id: 1
+  invoice_code: MyString
+  fee: 9.99
+  discount: 9.99
+  total: 9.99
+  type: 
+  status: MyString
+  payment_date: 2020-07-09
+
+two:
+  people_id: 1
+  invoice_code: MyString
+  fee: 9.99
+  discount: 9.99
+  total: 9.99
+  type: 
+  status: MyString
+  payment_date: 2020-07-09

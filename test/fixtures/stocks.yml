@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  people_id: 1
+  payment_method_id: 1
+  fee: 9.99
+  discount: 9.99
+  total: 9.99
+  stock_generate: false
+  type: 
+  local_id: 1
+
+two:
+  people_id: 1
+  payment_method_id: 1
+  fee: 9.99
+  discount: 9.99
+  total: 9.99
+  stock_generate: false
+  type: 
+  local_id: 1
